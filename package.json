@@ -1,0 +1,14 @@
+{
+  "name": "scrape-mod",
+  "version": "0.0.1",
+  "description": "VINCENT",
+  "main": "scrape.js",
+  "repository": "",
+  "license": "Proprietary",
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "engines": {
+    "node": "13.0.x"
+  }
+}
